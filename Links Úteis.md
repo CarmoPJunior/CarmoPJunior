@@ -31,6 +31,8 @@
 - https://dribbble.com/shots/15501287-Finance-Dashboard-Design
 - https://dribbble.com/shots/15023587-File-Manager-Dashboard-design
 - https://dribbble.com/shots/16152318-Tukunen-Sales-Analytics-Dashboard
+- https://dribbble.com/shots/15877041-Prostore-Sales-Dashboard
+- https://dribbble.com/shots/16996251-Ponyweist-Dashboard-animation-light-or-dark-version
 
 ## Icons
 - https://ui8.net/ui8/products/galacticons-animated
