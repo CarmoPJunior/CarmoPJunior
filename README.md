@@ -2,24 +2,27 @@
 
 - 🔥 Full Stack Developer
 
-- 🔭 I’m currently working at [freelancer](#)
+- 🔭 I’m currently working at [...](#)
 
 - 👨‍💻 All of my projects are available at [github]()
-
 
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)&nbsp;
+![SqlServer](https://img.shields.io/badge/-SqlServer-05122A?style=flat&logo=sqlserver)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring.js)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
 <br>
 
@@ -40,7 +43,7 @@
    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
  </a> 
  <a href = "mailto:carmo.goncalves.jr@hotmail.com">
-   <img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank">
+   <img src="https://img.shields.io/badge/-mail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank">
  </a>
  <a href="https://www.linkedin.com/in/carmogoncalvespereirajunior/" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -48,7 +51,7 @@
  
 </div> 
     
-## ⚡ Projects
+## ⚡&nbsp;Projects
   
  <div> 
    
@@ -58,19 +61,22 @@
  </div>
   
   
-## ⚡    
+## ⚡&nbsp;Contributions
   
- ![Snake animation](https://github.com/CarmoPJunior/CarmoJunior/blob/output/github-contribution-grid-snake.svg)
+ ![Contributions](https://github.com/CarmoPJunior/CarmoJunior/blob/output/github-contribution-grid-snake.svg)
+  
+  
+--- 
   
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=CarmoPJunior&color=green" alt="Profile views" /> 
 </p>
   
-  
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarmoPJunior)](https://github.com/CarmoPJunior/github-readme-stats)
  
-  <!--  
-  
+<!--  
+   
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarmoPJunior)](https://github.com/CarmoPJunior/beerstock)
+   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarmoPJunior&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarmoPJunior)](https://github.com/anuraghazra/github-readme-stats)
