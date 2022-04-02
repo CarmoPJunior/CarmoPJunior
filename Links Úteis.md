@@ -1,8 +1,4 @@
-
-
-
 # Dicas 
-
 
 1. Sites para se inspirar: 
    - [Codepen](https://codepen.io/); 
@@ -25,3 +21,10 @@
 4. Sites de fontes:
    - [Adobe fonts](https://fonts.adobe.com); 
    - [Google fonts](https://fonts.google.com/);
+
+
+
+--------
+# Exemplos
+
+https://dribbble.com/shots/15501287-Finance-Dashboard-Design
