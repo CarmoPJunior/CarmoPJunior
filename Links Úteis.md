@@ -28,9 +28,9 @@
 # Exemplos
 
 ## DashBoard
-https://dribbble.com/shots/15501287-Finance-Dashboard-Design
-https://dribbble.com/shots/15023587-File-Manager-Dashboard-design
-https://dribbble.com/shots/16152318-Tukunen-Sales-Analytics-Dashboard
+- https://dribbble.com/shots/15501287-Finance-Dashboard-Design
+- https://dribbble.com/shots/15023587-File-Manager-Dashboard-design
+- https://dribbble.com/shots/16152318-Tukunen-Sales-Analytics-Dashboard
 
 ## Icons
-https://ui8.net/ui8/products/galacticons-animated
+- https://ui8.net/ui8/products/galacticons-animated
