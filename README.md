@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [...](#)
 
-- 👨‍💻 All of my projects are available at [github]()
+- 👨‍💻 All my projects are available on [github]()
 
 <br><br>
 
