@@ -15,10 +15,10 @@
     - models        # Modelos do banco de dados   
     - services      # Regras de negócio
     - repositories  # Query builders
-  - config          # Configuração das variaveis de ambiente
   - constants       # Pasta utilizada para as Constants
   - jobs            # Pasta utilizada para as Tarefas de rotinas da aplicação
   - utils           # Trechos de códigos ou funções uteis para o sistema
   - database        # Pasta utilizada para as migrations e para os seeders(que vai popular nosso banco) 
   - routes          # Pasta utilizada para as rotas do sitema
   - types           # Pasta utilizada para a Tipagem (d.ts) do Typescript
+- config          # Configuração das variaveis de ambiente
