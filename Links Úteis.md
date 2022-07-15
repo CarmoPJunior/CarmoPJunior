@@ -22,6 +22,8 @@
    - [Adobe fonts](https://fonts.adobe.com); 
    - [Google fonts](https://fonts.google.com/);
 
+5. Sites de áudio e efeitos sonoros
+   - [freesound](https://freesound.org);
 
 
 --------
