@@ -26,7 +26,7 @@
    - [freesound](https://freesound.org);
 
 6. Sites modelos css
-   - [getcssscan] (https://getcssscan.com/css-box-shadow-examples)
+   - [getcssscan](https://getcssscan.com/css-box-shadow-examples);
 
 
 --------
