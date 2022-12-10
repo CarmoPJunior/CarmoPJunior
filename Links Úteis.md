@@ -27,6 +27,7 @@
 
 6. Sites modelos css
    - [getcssscan](https://getcssscan.com/css-box-shadow-examples);
+   - [radio buttons](https://www.sliderrevolution.com/resources/styling-radio-buttons);
 
 
 --------
