@@ -11,6 +11,7 @@
 2. Sites para pegar imagens e ícones:
    - [Pixabay](https://pixabay.com/pt/);
    - [Flaticon](https://www.flaticon.com/);
+   - [galacticons-animated](https://ui8.net/ui8/products/galacticons-animated)
 
 3. Sites para escolher as cores e paletas:
    - [Color hunt](https://colorhunt.co/);
@@ -25,10 +26,11 @@
 5. Sites de áudio e efeitos sonoros
    - [freesound](https://freesound.org);
 
-6. Sites modelos css
+6. Sites modelos e ferramentas css
    - [getcssscan](https://getcssscan.com/css-box-shadow-examples);
    - [radio buttons](https://www.sliderrevolution.com/resources/styling-radio-buttons);
    - [clip path](https://bennettfeely.com/clippy/);
+   - [cssgradient](https://cssgradient.io)
 
 
 --------
@@ -41,5 +43,5 @@
 - https://dribbble.com/shots/15877041-Prostore-Sales-Dashboard
 - https://dribbble.com/shots/16996251-Ponyweist-Dashboard-animation-light-or-dark-version
 
-## Icons
-- https://ui8.net/ui8/products/galacticons-animated
+
+
