@@ -11,7 +11,8 @@
 2. Sites para pegar imagens e ícones:
    - [Pixabay](https://pixabay.com/pt/);
    - [Flaticon](https://www.flaticon.com/);
-   - [galacticons-animated](https://ui8.net/ui8/products/galacticons-animated)
+   - [galacticons-animated](https://ui8.net/ui8/products/galacticons-animated);
+   - [ionicons](https://ionic.io/ionicons);
 
 3. Sites para escolher as cores e paletas:
    - [Color hunt](https://colorhunt.co/);
