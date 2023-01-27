@@ -13,6 +13,9 @@
    - [Flaticon](https://www.flaticon.com/);
    - [galacticons-animated](https://ui8.net/ui8/products/galacticons-animated);
    - [ionicons](https://ionic.io/ionicons);
+   - [Figma Free-Icon-Pack](https://www.figma.com/file/hcUSLQrU85FTL8u8xyuQx6/Free-Icon-Pack-1600%2B-icons-(Community)?node-id=1358%3A116&t=l9vPYIa2aThGblXY-0);
+
+
 
 3. Sites para escolher as cores e paletas:
    - [Color hunt](https://colorhunt.co/);
@@ -32,6 +35,7 @@
    - [radio buttons](https://www.sliderrevolution.com/resources/styling-radio-buttons);
    - [clip path](https://bennettfeely.com/clippy/);
    - [cssgradient](https://cssgradient.io)
+   - [fronteditor](https://www.fronteditor.dev);
 
 
 --------
